@@ -1,5 +1,4 @@
-![Logo]()
-
+<!-- ![Logo]() -->
 ## CopiloTTeam
 # 3° Semestre - Prof4Tech
 
