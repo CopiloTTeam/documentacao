@@ -15,7 +15,9 @@ I - [Manual de usuário](https://linktodocumentation)
 
 II - [Manual de Deploy](https://linktodocumentation)
 
-III - [BPMN](https://linktodocumentation)
+III - [BPMN](https://miro.com/welcomeonboard/TVdxTU11bktNN1pZdG9JVHkybmdhSmlaWTA2NEIzNUtMc29hTnRiMXhiQXV5bDVMOWZrdnhMN3cxd0JEQkFYcHwzNDU4NzY0NTQ3NjA2NDQxNjY5fDI=?share_link_id=604694770248)
+
+IV - [Figma](https://www.figma.com/file/U3pmaXpm9d5bgc8UDoJdAd/API-3%C2%BA-Semestre?node-id=8%3A34&t=zd9oxNSDFvZZlGWM-1)
 
 IV - [Repositório do Front-End](https://github.com/the-seven-organization/front-end)
 
@@ -74,6 +76,7 @@ Start the server
 |   Dev Team    | Gabriel da Cunha de Macedo |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-cunha-de-macedo-199890250/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Tuuca)             |
 |   Dev Team    | Victor dos Santos Salles | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/VictorSantos18)             |
 | Dev Team  | Wallace Felipe De França Souza       |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wallacefelipe21/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/wallacefelipe21)              |
+|   Dev Team    | Lucas Vinicius da Silva Soares        |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasviniciussoares/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasVinicius32)          |
 
 
 
