@@ -1,89 +1,39 @@
-<!-- ![Logo]() -->
-## CopiloTTeam
-# 3° Semestre - Prof4Tech
 
-A proposta do projeto para a API do 3° Semestre, feita pela Prof4tech foi de um sistema de venda de títulos, no qual terá que existir um sistema de pagamentos, com sistema de baixa de parcelas.
-Algumas características importantes do projeto são:
+<h1 align="center"> CopilotTeam - Sprint 1: 13/03/2022 à 02/04/2022 </h1>
 
-I - O sistema deve ter processamento batch de parcelas.
-II - O sistema deve ter ligação com a API dos correios para a criação da parte do endereço dos clientes e usuários.
+            
+<br id="topo">
+<p align="center">
+    <a href="#objetivo">Objetivo da Sprint</a>  |  
+    <a href="#metrica">Métricas do Time</a>
+</p>
 
+<span id="objetivo">
 
-## Documentação
+## :dart: Objetivos da Sprint
+A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um sistema que gerencie emissões de Dívidas por meio de boletos, onde teremos 3 cargos: administrativo, financeiro e comercial, nessa sprint apenas o poder administrativo tem acesso ao sistema e gerenciar todos os recursos.
 
-I - Manual de usuário
+<div align="center">
 
-II - Manual de Deploy
+![1](https://user-images.githubusercontent.com/79495727/229496439-575d7342-348d-48e9-963c-5af85ea1dd6d.png)
 
-III - [BPMN](https://github.com/CopiloTTeam/documentacao/blob/main/Docs/bpmn.md)
+</div>
 
-IV - Figma
+→ [Voltar ao topo](#topo)
 
-IV - [Repositório do Front-End](https://github.com/CopiloTTeam/front-end)
+<span id="metrica">
 
-V - [Repositório do Back-End](https://github.com/CopiloTTeam/back-end)
+## :chart_with_upwards_trend: Métricas do time
+Para melhorar o aproveitamento da equipe e das habilidades individuais de cada integrante, separamos a equipe de desenvolvimento em duas frentes: Front-End e Back-end, onde para essa primeira sprint a equipe de front-end foi encarregada de criar os componentes e páginas que seriam utilizadas, já a equipe de back-end ficou responsável por criar o Sistema de Baixa de Parcelas, o CRUD e o banco de dados. Ao final da sprint as duas equipes se juntaram para a integração do sistema de forma que se tornasse funcional e atendesse aos requisitos solicitados pelo cliente.
 
-## Color Reference
+- Para acompanhar as atividades, foi criado e atualiazado por todo time ao longo da sprint, um gráfico de burndown onde podemos visualizar de forma tangível os esforços de tempo e a progressão ao longo dos dias da sprint, incluindo as atividades desenvolvidas e seus responsáveis.
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#1E1E1E](https://via.placeholder.com/10/1E1E1E?text=+) #1E1E1E |
-| Secondary Color | ![#6E6E6E](https://via.placeholder.com/10/6E6E6E?text=+) #6E6E6E |
-| Font Color | ![#CCCCCC](https://via.placeholder.com/10/CCCCCC?text=+) #CCCCCC |
-| Background Color | ![#FBFBFB](https://via.placeholder.com/10/FBFBFB?text=+) #FBFBFB |
-| Background Secondary Color | ![#0E0E0E](https://via.placeholder.com/10/0E0E0E?text=+) #0E0E0E |
+<br>
+<div align="center">
+            
+![Imagem do WhatsApp de 2023-04-03 à(s) 06 32 57](https://user-images.githubusercontent.com/79495727/229497703-7d4ede1c-d120-4c24-bffe-1015d0a18a41.jpg)
 
+</div>
 
-
-<!-- ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
- -->
-
-<!-- ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
- -->
-
-## Authors
-
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner  | Guilherme Duarte Cenzi Dias |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-duarte-cenzi-dias-9737621b6) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermedcdias)     |
-|   Scrum Master    | Valderi Douglas Camargo Queiros Ferreira |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valderidouglas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ValderiDouglas)             |
-|   Dev Team    | Gabriel da Cunha de Macedo |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-cunha-de-macedo-199890250/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Tuuca)             |
-|   Dev Team    | Victor dos Santos Salles | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/VictorSantos18)             |
-| Dev Team  | Wallace Felipe De França Souza       |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wallacefelipe21/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/wallacefelipe21)              |
-|   Dev Team    | Lucas Vinicius da Silva Soares        |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasviniciussoares/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasVinicius32)          |
-
-
-
-<!-- ## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
- -->
+    
+→ [Voltar ao topo](#topo)
