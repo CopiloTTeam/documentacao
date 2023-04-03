@@ -11,27 +11,27 @@ II - O sistema deve ter ligação com a API dos correios para a criação da par
 
 ## Documentação
 
-I - [Manual de usuário](https://linktodocumentation)
+I - Manual de usuário
 
-II - [Manual de Deploy](https://linktodocumentation)
+II - Manual de Deploy
 
 III - [BPMN](https://github.com/CopiloTTeam/documentacao/blob/main/Docs/bpmn.md)
 
-IV - [Figma](https://www.figma.com/file/U3pmaXpm9d5bgc8UDoJdAd/API-3%C2%BA-Semestre?node-id=8%3A34&t=zd9oxNSDFvZZlGWM-1)
+IV - Figma
 
-IV - [Repositório do Front-End](https://github.com/the-seven-organization/front-end)
+IV - [Repositório do Front-End](https://github.com/CopiloTTeam/front-end)
 
-V - [Repositório do Back-End](https://github.com/the-seven-organization/back-end)
+V - [Repositório do Back-End](https://github.com/CopiloTTeam/back-end)
 
 ## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#070025](https://via.placeholder.com/10/0a192f?text=+) #070025 |
-| Secondary Color | ![#001133](https://via.placeholder.com/10/f8f8f8?text=+) #001133 |
-| Font Color | ![#CCCCCC](https://via.placeholder.com/10/00b48a?text=+) #CCCCCC |
-| Background Color | ![#FBFBFB](https://via.placeholder.com/10/00b48a?text=+) #FBFBFB |
-| Background Secondary Color | ![#0E0E0E](https://via.placeholder.com/10/00b48a?text=+) #0E0E0E |
+| Primary Color | ![#1E1E1E](https://via.placeholder.com/10/1E1E1E?text=+) #1E1E1E |
+| Secondary Color | ![#6E6E6E](https://via.placeholder.com/10/6E6E6E?text=+) #6E6E6E |
+| Font Color | ![#CCCCCC](https://via.placeholder.com/10/CCCCCC?text=+) #CCCCCC |
+| Background Color | ![#FBFBFB](https://via.placeholder.com/10/FBFBFB?text=+) #FBFBFB |
+| Background Secondary Color | ![#0E0E0E](https://via.placeholder.com/10/0E0E0E?text=+) #0E0E0E |
 
 
 
