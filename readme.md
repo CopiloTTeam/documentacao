@@ -30,6 +30,11 @@ Um breve resumo sobre a proposta da Prof4tech para a API do 3º Semestre é cria
 <span id="backlog">
 
 <div style="text-align: center;">
+            <h1 align="center">
+
+Backlog
+
+</h1>
 <table style="width: 80%;">
 
 | RF  | Descrição                                    | US                                                 | Sprint Status |
@@ -48,11 +53,11 @@ Um breve resumo sobre a proposta da Prof4tech para a API do 3º Semestre é cria
 
 <span id="sprint1">
 
-<div style="text-align: center">
+<h1 align="center">
 
-#  :calendar: Sprint 1
+:calendar: Sprint 1
 
-</div>
+</h1>
 
 <p align="center">
                                      | 
