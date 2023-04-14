@@ -1,6 +1,4 @@
 <h1 align="center">CopilotTeam</h1>
-<p align="justify">Nosso time é formado por alunos dedicados e comprometidos em entregar resultados de qualidade para nossos clientes. Valorizamos a colaboração e o trabalho em equipe, buscando sempre soluções inovadoras e eficientes para atender às necessidades de cada projeto.</p>
-
 <p align="justify">Um breve resumo sobre a proposta da Prof4tech para a API do 3º Semestre é criar um sistema de venda de títulos com gerenciamento de pagamentos e baixa de parcelas, que requer um processamento batch e integração com a API dos correios para o registro correto dos dados dos clientes. A execução do projeto demanda um alto grau de especialização e conhecimento técnico, bem como habilidades em programação e resolução de desafios complexos. O resultado final será uma API robusta e eficiente para atender às necessidades dos usuários e clientes.</p>
 
 
