@@ -64,6 +64,10 @@
             <td style="text-align: center; vertical-align: middle;">Quero que o trabalho de criação de parcelas e seus respectivos boletos sejam feitos fora do expediente comercial.</td>
             <td style="text-align: center; vertical-align: middle;">3</td>
             <td style="text-align: center; vertical-align: middle;">🟥</td>
+        </tr>
+    </tbody>
+</table>
+
 <h1 style="text-align: center;">
    🗓️ Sprints 
 </h1>
