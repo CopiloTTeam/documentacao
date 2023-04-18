@@ -1,10 +1,10 @@
 <h1 align="center">CopiloTTeam</h1>
 
-#### Dor do cliente:
+### Dor do cliente:
 
 <p align="justify">Com base nas informações fornecidas no kick-off, é possível perceber que o cliente pode estar enfrentando desafios significativos na gestão de seus processos financeiros e comerciais. Entre as principais fontes de dor estão o cadastro manual de títulos e dados de endereço, a geração manual de relatórios de clientes adimplentes e inadimplentes por data de pagamento, data de crédito e data de vencimento, a complexidade do processamento de parcelas, a formatação de dados de moeda, a gestão de diferentes tipos de usuários e a baixa manual de parcelas. Para resolver esses problemas e alcançar um desempenho mais eficiente e satisfatório, o cliente precisa de uma solução que ofereça automatização, facilidade de uso e eficácia na gestão de suas operações.</p>
 
-#### Solução:
+### Solução:
 
 <p align="justify">A solução proposta é um sistema abrangente que inclui cadastro de clientes e gestão de títulos com parcelas, integrando-se à API dos correios para facilitar a inserção de dados de endereço. Com a capacidade de processar parcelas automaticamente em lote e fora do expediente, o sistema promove maior agilidade e eficiência. A segmentação em diferentes tipos de usuários, como comercial, financeiro e administrador, possibilita a criação e gestão centralizada de títulos e parcelas, adaptando-se às necessidades específicas de cada setor. Além disso, a mascara para moedas permite a formatação correta dos valores financeiros. Ademais, o sistema gera relatórios detalhados de clientes adimplentes e inadimplentes, com opções de filtragem por data de credito, de pagamento ou de vencimento. Com essa solução, o cliente pode aliviar suas dores e otimizar seu desempenho empresarial.</p>
 
