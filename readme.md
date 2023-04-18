@@ -59,7 +59,7 @@
             <td style="text-align: center; vertical-align: middle;">🟥</td>
         </tr>
         <tr>
-            <td style="text-align: center; vertical-align: middle;">RF 005</td>
+            <td style="text-align: center; vertical-align: middle;">RF 007</td>
             <td style="text-align: center; vertical-align: middle;">Processamento Batch da criação de parcelas</td>
             <td style="text-align: center; vertical-align: middle;">Quero que o trabalho de criação de parcelas e seus respectivos boletos sejam feitos fora do expediente comercial.</td>
             <td style="text-align: center; vertical-align: middle;">3</td>
@@ -68,7 +68,10 @@
     </tbody>
 </table>
 
+
 <h1 style="text-align: center;">
    🗓️ Sprints 
 </h1>
+Sprint 1:
 
+Sprint 2:
