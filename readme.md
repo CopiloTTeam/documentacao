@@ -149,8 +149,9 @@
 </table>
 
 <h1 align="center">📎 Tarefas </h1>
-As tarefas relacionada a cada user story estão localizadas no Trello da equipe: 
-🔗 <a href="https://trello.com/invite/b/b7lOcgsV/ATTI883c42f25f5a7e3c65525e42fe79ded84508B529/backlog">Clique Aqui</a>
+As tarefas relacionadas a cada user story foram registradas e estão disponíveis para consulta no Trello da equipe. Por meio dessa plataforma, é possível registrar as tarefas relacionadas a cada user story, bem como acompanhar o andamento e o status de cada uma delas. Além disso, é possível atribuir responsabilidades, definir prazos e estabelecer prioridades, garantindo a execução adequada das tarefas e o cumprimento dos objetivos do projeto.
+<br><br><br>
+🔗 <a href="https://trello.com/invite/b/b7lOcgsV/ATTI883c42f25f5a7e3c65525e42fe79ded84508B529/backlog">Clique Aqui para acessar como observador.</a>
 
 <h1 align="center">📝 Regras de Negocio </h1>
 
