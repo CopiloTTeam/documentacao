@@ -7,6 +7,7 @@
 
 <p>Com base no kickoff feito pelo cliente, foi criado um backlog do produto. Esse backlog foi priorizado e dividido em sprints, com o objetivo de permitir a entrega incremental de valor ao cliente ao longo do tempo.</p>
 
+
 <table style="width:100%; table-layout: fixed;">
     <thead>
         <th style="width: 15%; text-align: center;">RF</th>
