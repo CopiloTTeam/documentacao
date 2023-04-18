@@ -1,11 +1,12 @@
-<h1 align="center">CopilotTeam</h1>
+<h1 align="center">CopiloTTeam</h1>
 <p align="justify">Um breve resumo sobre a proposta da Prof4tech para a API do 3º Semestre é criar um sistema de venda de títulos com gerenciamento de pagamentos e baixa de parcelas, que requer um processamento batch e integração com a API dos correios para o registro correto dos dados dos clientes. A execução do projeto demanda um alto grau de especialização e conhecimento técnico, bem como habilidades em programação e resolução de desafios complexos. O resultado final será uma API robusta e eficiente para atender às necessidades dos usuários e clientes.</p>
 
 
 
-<h1 style="text-align: center; margin-bottom: 1rem">🗃️ Backlog do Produto</h1>
+<h1 align="center">🗃️ Backlog do Produto</h1>
 
 <p>Com base no kickoff feito pelo cliente, foi criado um backlog do produto. Esse backlog foi priorizado e dividido em sprints, com o objetivo de permitir a entrega incremental de valor ao cliente ao longo do tempo.</p>
+
 
 <table style="width:100%; table-layout: fixed;">
     <thead>
@@ -52,7 +53,7 @@
 
 
 
-<h1 style="text-align: center; margin-bottom: 1rem">🗂️ User Stories</h1>
+<h1 align="center">🗂️ User Stories</h1>
 
 <table>
   <thead>
@@ -147,9 +148,12 @@
   </tbody>
 </table>
 
+<h1 align="center">📎 Tarefas </h1>
+As tarefas relacionadas a cada user story foram registradas e estão disponíveis para consulta no Trello da equipe. Por meio dessa plataforma, é possível registrar as tarefas relacionadas a cada user story, bem como acompanhar o andamento e o status de cada uma delas. Além disso, é possível atribuir responsabilidades, definir prazos e estabelecer prioridades, garantindo a execução adequada das tarefas e o cumprimento dos objetivos do projeto.
+<br><br><br>
+🔗 <a href="https://trello.com/invite/b/b7lOcgsV/ATTI883c42f25f5a7e3c65525e42fe79ded84508B529/backlog">Clique Aqui para acessar como observador.</a>
 
-
-<h1 style="text-align: center; margin-bottom: 1rem">📝 Regras de Negocio </h1>
+<h1 align="center">📝 Regras de Negocio </h1>
 
 ### Processamento Batch:
 
@@ -182,9 +186,9 @@
 <p align="justify">Portanto, a adoção da formatação de moedas da esquerda para a direita é uma prática recomendada e pode trazer benefícios significativos para a gestão financeira e para a integração com outros sistemas.</p>
 
 
-<h1 style="text-align: center;">
+<h1 align="center">
    🗓️ Sprints 
 </h1>
 Sprint 1: <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%201%2013032022%20à%2002042022.md">Clique Aqui</a>
 
-Sprint 2:
+Sprint 2: Em Andamento
