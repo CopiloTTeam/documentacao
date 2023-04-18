@@ -148,7 +148,9 @@
   </tbody>
 </table>
 
-
+<h1 align="center">📎 Tarefas </h1>
+As tarefas relacionada a cada user story estão localizadas no Trello da equipe: 
+🔗 <a href="https://trello.com/invite/b/b7lOcgsV/ATTI883c42f25f5a7e3c65525e42fe79ded84508B529/backlog">Clique Aqui</a>
 
 <h1 align="center">📝 Regras de Negocio </h1>
 
