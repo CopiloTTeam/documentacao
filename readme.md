@@ -1,6 +1,25 @@
 <h1 align="center">CopiloTTeam</h1>
-<p align="justify">Um breve resumo sobre a proposta da Prof4tech para a API do 3º Semestre é criar um sistema de venda de títulos com gerenciamento de pagamentos e baixa de parcelas, que requer um processamento batch e integração com a API dos correios para o registro correto dos dados dos clientes. A execução do projeto demanda um alto grau de especialização e conhecimento técnico, bem como habilidades em programação e resolução de desafios complexos. O resultado final será uma API robusta e eficiente para atender às necessidades dos usuários e clientes.</p>
+#### Dor do cliente:
+<p align="justify">Com base nas informações fornecidas no kick-off, é possível perceber que o cliente pode estar enfrentando desafios significativos na gestão de seus processos financeiros e comerciais. Entre as principais fontes de dor estão o cadastro manual de títulos e dados de endereço, a geração manual de relatórios de clientes adimplentes e inadimplentes por data de pagamento, data de crédito e data de vencimento, a complexidade do processamento de parcelas, a formatação de dados de moeda, a gestão de diferentes tipos de usuários e a baixa manual de parcelas. Para resolver esses problemas e alcançar um desempenho mais eficiente e satisfatório, o cliente precisa de uma solução que ofereça automatização, facilidade de uso e eficácia na gestão de suas operações.</p>
+#### Solução:
+<p align="justify">A solução proposta é um sistema abrangente que inclui cadastro de clientes e gestão de títulos com parcelas, integrando-se à API dos correios para facilitar a inserção de dados de endereço. Com a capacidade de processar parcelas automaticamente em lote e fora do expediente, o sistema promove maior agilidade e eficiência. A segmentação em diferentes tipos de usuários, como comercial, financeiro e administrador, possibilita a criação e gestão centralizada de títulos e parcelas, adaptando-se às necessidades específicas de cada setor. Além disso, a mascara para moedas permite a formatação correta dos valores financeiros. Ademais, o sistema gera relatórios detalhados de clientes adimplentes e inadimplentes, com opções de filtragem por data de credito, de pagamento ou de vencimento. Com essa solução, o cliente pode aliviar suas dores e otimizar seu desempenho empresarial.</p>
 
+> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
+
+
+<h1 align="center">
+   🗓️ Sprints 
+</h1>
+Sprint 1: <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%201%2013032022%20à%2002042022.md">Clique Aqui</a>
+
+Sprint 2: Em Andamento
+
+|     Sprint     |     Status     |          Relatório          |
+| :------------: | :-----------: | :-------------------------: |
+|      Sprint 1  |    Concluída  |   <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%201%2013032022%20à%2002042022.md">Clique Aqui</a>         |
+|      Sprint 2  |    Em andamento  |  <a href="#">Clique Aqui</a>  |
+|      Sprint 3  |   Não Iniciada     | <a href="#">Clique Aqui</a>  |
+|      Sprint 4  |    Não Iniciada    | <a href="#">Clique Aqui</a>  |
 
 
 <h1 align="center">🗃️ Backlog do Produto</h1>
@@ -184,11 +203,3 @@ As tarefas relacionadas a cada user story foram registradas e estão disponívei
 <p align="justify">Ademais, é importante destacar que a adoção de padrões internacionais contribui para a compatibilidade do sistema com outros sistemas e processos que adotam a mesma formatação, permitindo uma maior eficiência e interoperabilidade em transações financeiras e comerciais.</p>
 
 <p align="justify">Portanto, a adoção da formatação de moedas da esquerda para a direita é uma prática recomendada e pode trazer benefícios significativos para a gestão financeira e para a integração com outros sistemas.</p>
-
-
-<h1 align="center">
-   🗓️ Sprints 
-</h1>
-Sprint 1: <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%201%2013032022%20à%2002042022.md">Clique Aqui</a>
-
-Sprint 2: Em Andamento
