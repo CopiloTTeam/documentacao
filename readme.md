@@ -69,6 +69,12 @@ Sprint 2: Em Andamento
             <td style="text-align: center; vertical-align: middle;">2</td>
             <td style="text-align: center; vertical-align: middle;">🟥</td>
         </tr>
+       <tr>
+            <td style="text-align: center; vertical-align: middle;">RF 006</td>
+            <td style="text-align: center; vertical-align: middle;">Processamento Batch</td>
+            <td style="text-align: center; vertical-align: middle;">3</td>
+            <td style="text-align: center; vertical-align: middle;">🟥</td>
+        </tr>
     </tbody>
 </table>
 
@@ -167,6 +173,12 @@ Sprint 2: Em Andamento
       <td style="text-align: center; vertical-align: middle;">Comercial</td>
       <td style="text-align: center; vertical-align: middle;">Vê o relatório parcial de cobranças</td>
       <td style="text-align: center; vertical-align: middle;">Eu como comercial quero poder ter acesso ao relatório de clientes inadimplentes afim de cobrar os pagamentos dos clientes.</td>
+    </tr>
+      <tr>
+      <td rowspan="1" style="text-align: center; vertical-align: middle;">RF 006 - Processamento Batch</td>
+      <td style="text-align: center; vertical-align: middle;">Sistema</td>
+      <td style="text-align: center; vertical-align: middle;">Processa parcelas de titulos depois do expediente.</td>
+      <td style="text-align: center; vertical-align: middle;">Eu como sistema preciso que o processamento de parcelas seja feito em lote e depois do expediente afim de garatir o bom funcionamento do sistema.</td>
     </tr>
   </tbody>
 </table>
