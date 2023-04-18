@@ -1,4 +1,4 @@
-<h1 align="center">CopilotTeam</h1>
+<h1 align="center">CopiloTTeam</h1>
 <p align="justify">Um breve resumo sobre a proposta da Prof4tech para a API do 3º Semestre é criar um sistema de venda de títulos com gerenciamento de pagamentos e baixa de parcelas, que requer um processamento batch e integração com a API dos correios para o registro correto dos dados dos clientes. A execução do projeto demanda um alto grau de especialização e conhecimento técnico, bem como habilidades em programação e resolução de desafios complexos. O resultado final será uma API robusta e eficiente para atender às necessidades dos usuários e clientes.</p>
 
 
