@@ -188,4 +188,4 @@
 </h1>
 Sprint 1: <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%201%2013032022%20à%2002042022.md">Clique Aqui</a>
 
-Sprint 2:
+Sprint 2: Em Andamento
