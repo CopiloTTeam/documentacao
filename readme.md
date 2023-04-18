@@ -3,7 +3,7 @@
 
 
 
-<h1 style="text-align: center; margin-bottom: 1rem">🗃️ Backlog do Produto</h1>
+<h1 align="center">🗃️ Backlog do Produto</h1>
 
 <p>Com base no kickoff feito pelo cliente, foi criado um backlog do produto. Esse backlog foi priorizado e dividido em sprints, com o objetivo de permitir a entrega incremental de valor ao cliente ao longo do tempo.</p>
 
@@ -52,7 +52,7 @@
 
 
 
-<h1 style="text-align: center; margin-bottom: 1rem">🗂️ User Stories</h1>
+<h1 align="center">🗂️ User Stories</h1>
 
 <table>
   <thead>
@@ -149,7 +149,7 @@
 
 
 
-<h1 style="text-align: center; margin-bottom: 1rem">📝 Regras de Negocio </h1>
+<h1 align="center">📝 Regras de Negocio </h1>
 
 ### Processamento Batch:
 
@@ -182,7 +182,7 @@
 <p align="justify">Portanto, a adoção da formatação de moedas da esquerda para a direita é uma prática recomendada e pode trazer benefícios significativos para a gestão financeira e para a integração com outros sistemas.</p>
 
 
-<h1 style="text-align: center;">
+<h1 align="center">
    🗓️ Sprints 
 </h1>
 Sprint 1: <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%201%2013032022%20à%2002042022.md">Clique Aqui</a>
