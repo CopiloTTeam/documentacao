@@ -63,13 +63,13 @@
         <tr>
             <td style="text-align: center; vertical-align: middle;">RF 005</td>
             <td style="text-align: center; vertical-align: middle;">Relatório de Cobranças</td>
-            <td style="text-align: center; vertical-align: middle;">2</td>
+            <td style="text-align: center; vertical-align: middle;">3</td>
             <td style="text-align: center; vertical-align: middle;">🟥</td>
         </tr>
        <tr>
             <td style="text-align: center; vertical-align: middle;">RF 006</td>
             <td style="text-align: center; vertical-align: middle;">Processamento Batch</td>
-            <td style="text-align: center; vertical-align: middle;">3</td>
+            <td style="text-align: center; vertical-align: middle;">4</td>
             <td style="text-align: center; vertical-align: middle;">🟥</td>
         </tr>
     </tbody>
