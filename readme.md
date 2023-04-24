@@ -18,7 +18,7 @@
 |     Sprint     |     Status     |          Relatório          |
 | :------------: | :-----------: | :-------------------------: |
 |      Sprint 1  |    Concluída  |   <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%201%2013032022%20à%2002042022.md">Clique Aqui</a>         |
-|      Sprint 2  |    Concluída  |  <a href="#">Clique Aqui</a>  |
+|      Sprint 2  |    Concluída  |  <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%202%2003042023%2023042023.md">Clique Aqui</a>  |
 |      Sprint 3  |   Não Iniciada     | <a href="#">Clique Aqui</a>  |
 |      Sprint 4  |    Não Iniciada    | <a href="#">Clique Aqui</a>  |
 
@@ -56,7 +56,7 @@
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">RF 004</td>
-            <td style="text-align: center; vertical-align: middle;">Consulta de endereço por CEP na API dos Correios</td>
+            <td style="text-align: center; vertical-align: middle;">Consulta de endereço por CEP na API dos Correios e Segurança</td>
             <td style="text-align: center; vertical-align: middle;">2</td>
             <td style="text-align: center; vertical-align: middle;">✅</td>
         </tr>
@@ -150,7 +150,7 @@
       <td style="text-align: center; vertical-align: middle;">Eu como comercial quero poder logar no sistema.</td>
     </tr>
       <tr>
-      <td rowspan="2" style="text-align: center; vertical-align: middle;">RF 004 - Consulta de endereço por CEP na API dos Correios</td>
+      <td rowspan="3" style="text-align: center; vertical-align: middle;">RF 004 - Consulta de endereço por CEP na API dos Correios</td>
       <td style="text-align: center; vertical-align: middle;">Administrador</td>
       <td style="text-align: center; vertical-align: middle;">Cadastra endereço de clientes a partir do CEP</td>
       <td style="text-align: center; vertical-align: middle;">Eu como administrador quero poder cadastrar um endereço de cliente a partir do CEP dele.</td>
@@ -159,6 +159,12 @@
       <td style="text-align: center; vertical-align: middle;">Comercial</td>
       <td style="text-align: center; vertical-align: middle;">Cadastra endereço de clientes a partir do CEP</td>
       <td style="text-align: center; vertical-align: middle;">Eu como comercial quero poder cadastrar um endereço de cliente a partir do CEP dele.</td>
+    </tr>
+    </tr>
+      <tr>
+      <td style="text-align: center; vertical-align: middle;">Sistema</td>
+      <td style="text-align: center; vertical-align: middle;">Deixa o sistema segura contra invasões</td>
+      <td style="text-align: center; vertical-align: middle;">Eu como sistema, preciso ser seguro para que meus usuários possam fazer bom uso de mim.</td>
     </tr>
       <tr>
       <td rowspan="2" style="text-align: center; vertical-align: middle;">RF 005 - Relatório de Cobranças</td>
