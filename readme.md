@@ -19,7 +19,7 @@
 | :------------: | :-----------: | :-------------------------: |
 |      Sprint 1  |    Concluída  |   <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%201%2013032023%20à%2002042023.md">Clique Aqui</a>         |
 |      Sprint 2  |    Concluída  |  <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%202%2003042023%2023042023.md">Clique Aqui</a>  |
-|      Sprint 3  |   Iniciada     | <a href="#">Clique Aqui</a>  |
+|      Sprint 3  |   Iniciada     | <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%203%2024042023%2014052023.md">Clique Aqui</a>  |
 |      Sprint 4  |    Não Iniciada    | <a href="#">Clique Aqui</a>  |
 
 
