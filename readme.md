@@ -31,6 +31,7 @@
 <table style="width:100%; table-layout: fixed;">
     <thead>
         <th style="width: 15%; text-align: center;">RF</th>
+        <th style="width: 15%; text-align: center;">Prioridade</th>
         <th style="width: 28%; text-align: center;">Descrição</th>
         <th style="width: 13%; text-align: center;">Sprint</th>
         <th style="width: 10%; text-align: center;">Status</th>
@@ -38,43 +39,49 @@
     <tbody>
         <tr>
             <td style="text-align: center; vertical-align: middle;">RF 001</td>
+            <td style="text-align: center; vertical-align: middle;">1</td>
             <td style="text-align: center; vertical-align: middle;">Gerenciamento de Clientes</td>
             <td style="text-align: center; vertical-align: middle;">1</td>
             <td style="text-align: center; vertical-align: middle;">✅</td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">RF 002</td>
+            <td style="text-align: center; vertical-align: middle;">1</td>
             <td style="text-align: center; vertical-align: middle;">Gerenciamento de Títulos</td>
             <td style="text-align: center; vertical-align: middle;">1</td>
             <td style="text-align: center; vertical-align: middle;">✅</td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">RF 003</td>
+            <td style="text-align: center; vertical-align: middle;">1</td>
             <td style="text-align: center; vertical-align: middle;">Gerenciamento de Funcionários</td>
             <td style="text-align: center; vertical-align: middle;">1</td>
             <td style="text-align: center; vertical-align: middle;">✅</td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">RF 004</td>
+            <td style="text-align: center; vertical-align: middle;">2</td>
             <td style="text-align: center; vertical-align: middle;">Consulta de endereço por CEP na API dos Correios e Segurança</td>
             <td style="text-align: center; vertical-align: middle;">2</td>
             <td style="text-align: center; vertical-align: middle;">✅</td>
         </tr>
         <tr>
             <td style="text-align: center; vertical-align: middle;">RF 005</td>
+            <td style="text-align: center; vertical-align: middle;">3</td>
             <td style="text-align: center; vertical-align: middle;">Relatório de Cobranças</td>
             <td style="text-align: center; vertical-align: middle;">3</td>
             <td style="text-align: center; vertical-align: middle;">🟥</td>
         </tr>
        <tr>
             <td style="text-align: center; vertical-align: middle;">RF 006</td>
+            <td style="text-align: center; vertical-align: middle;">4</td>
             <td style="text-align: center; vertical-align: middle;">Processamento Batch</td>
             <td style="text-align: center; vertical-align: middle;">4</td>
             <td style="text-align: center; vertical-align: middle;">🟥</td>
         </tr>
     </tbody>
 </table>
-
+<small>A prioridade do backlog foi definida utilizando numeros de 1 a 4, sendo o número 1 o mais importante e o 4 o menos importante.</small>
 
 
 
