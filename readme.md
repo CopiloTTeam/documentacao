@@ -82,11 +82,18 @@
             <td style="text-align: center; vertical-align: middle;">6</td>
             <td style="text-align: center; vertical-align: middle;">Processamento Batch</td>
             <td style="text-align: center; vertical-align: middle;">4</td>
-            <td style="text-align: center; vertical-align: middle;">🟥</td>
+            <td style="text-align: center; vertical-align: middle;">✅</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">RF 007</td>
+            <td style="text-align: center; vertical-align: middle;">7</td>
+            <td style="text-align: center; vertical-align: middle;">Ajuste de pequenos bugs e Envio de email</td>
+            <td style="text-align: center; vertical-align: middle;">4</td>
+            <td style="text-align: center; vertical-align: middle;">✅</td>
         </tr>
     </tbody>
 </table>
-<small>A prioridade do backlog foi definida utilizando numeros de 1 a 6, sendo o número 1 o mais importante e o 6 o menos importante.</small>
+<small>A prioridade do backlog foi definida utilizando numeros de 1 a 7, sendo o número 1 o mais importante e o 7 o menos importante.</small>
 
 
 
@@ -196,10 +203,15 @@
       <td style="text-align: center; vertical-align: middle;">Eu como sistema preciso que o processamento de parcelas seja feito em lote e depois do expediente afim de garatir o bom funcionamento do sistema.</td>
     </tr>
     <tr>
-      <td rowspan="1" style="text-align: center; vertical-align: middle;">RF 007 - Ajuste de pequenos bugs</td>
+      <td rowspan="2" style="text-align: center; vertical-align: middle;">RF 007 - Ajuste de pequenos bugs e Envio de emails</td>
       <td style="text-align: center; vertical-align: middle;">Cliente</td>
       <td style="text-align: center; vertical-align: middle;">Sistema funciona de forma adequada com o que o cliente deseja</td>
       <td style="text-align: center; vertical-align: middle;">Eu como cliente preciso que o sistema esteja nos padrões estabelecidos por mim na ultima entrega de sprint</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">Sistema</td>
+      <td style="text-align: center; vertical-align: middle;">Envia emails</td>
+      <td style="text-align: center; vertical-align: middle;">Eu como sistema preciso enviar emails para cobrar boletos.</td>
     </tr>
   </tbody>
 </table>
