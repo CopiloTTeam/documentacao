@@ -25,7 +25,7 @@
 |      Sprint 1  |    Concluída  |   <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%201%2013032023%20à%2002042023.md">Clique Aqui</a>         |
 |      Sprint 2  |    Concluída  |  <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%202%2003042023%2023042023.md">Clique Aqui</a>  |
 |      Sprint 3  |   Concluida     | <a href="https://github.com/CopiloTTeam/documentacao/blob/main/Docs/Relatórios%20de%20Sprint/CopilotTeam%20-%20Sprint%203%2024042023%2014052023.md">Clique Aqui</a>  |
-|      Sprint 4  |    Iniciada    | <a href="#">Clique Aqui</a>  |
+|      Sprint 4  |    Concluida    | <a href="#">Clique Aqui</a>  |
 
 
 <h1 align="center">🗃️ Backlog do Produto</h1>
@@ -194,6 +194,12 @@
       <td style="text-align: center; vertical-align: middle;">Sistema</td>
       <td style="text-align: center; vertical-align: middle;">Processa parcelas de titulos depois do expediente.</td>
       <td style="text-align: center; vertical-align: middle;">Eu como sistema preciso que o processamento de parcelas seja feito em lote e depois do expediente afim de garatir o bom funcionamento do sistema.</td>
+    </tr>
+    <tr>
+      <td rowspan="1" style="text-align: center; vertical-align: middle;">RF 007 - Ajuste de pequenos bugs</td>
+      <td style="text-align: center; vertical-align: middle;">Cliente</td>
+      <td style="text-align: center; vertical-align: middle;">Sistema funciona de forma adequada com o que o cliente deseja</td>
+      <td style="text-align: center; vertical-align: middle;">Eu como cliente preciso que o sistema esteja nos padrões estabelecidos por mim na ultima entrega de sprint</td>
     </tr>
   </tbody>
 </table>
