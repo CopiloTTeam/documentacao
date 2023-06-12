@@ -250,6 +250,11 @@
 <p align="justify">Portanto, a adoção da formatação de moedas da esquerda para a direita é uma prática recomendada e pode trazer benefícios significativos para a gestão financeira e para a integração com outros sistemas.</p>
 
 
+### Matriz de Competencia
+
+![Softs](https://github.com/CopiloTTeam/documentacao/assets/79495727/8043d1db-be1e-48cf-9296-282dc079f391)
+
+
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
